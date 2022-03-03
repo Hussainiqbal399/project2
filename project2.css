@@ -1,0 +1,145 @@
+body
+.part1{
+    background-image: url(./assi3.jpg);
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    color: white;
+
+
+}
+.c1{
+    font-size: 40px;
+}
+.c2{
+    color: green;
+    text-align: center;
+    font-size: 40px;
+}
+.c3{
+    text-align: center;
+}
+.c4{
+    text-align: center;
+}
+.c5{
+    margin: 0%;
+    display:flex;
+    flex-direction: row;
+    background-color:green;
+    color: white;
+
+}
+.h1{
+    padding-left: 90px;
+}
+.c5a{
+    padding-right: 30px;
+    padding-left:90px ;
+
+}
+.c5b{
+    padding-left: 10px;
+    padding-right: 90px ;
+}
+.pic{
+    display: flex;
+    justify-items: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+.h2{
+    padding-left: 30px;
+    color: rgb(255, 255, 255);
+}
+.c6{
+    background-image: url(./wp3156116-pine-trees-wallpapers.jpg);
+    height: 250px;
+    padding-left: 600px;
+    padding-top: 250px;
+
+}
+.email{
+    font-size:larger;
+    color: white;
+    margin-right: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box{
+    
+background-color: greenyellow;
+padding-left: 20px;
+padding-right: 20px;
+}
+.box:hover{
+    background-color: green;
+}
+.abc{
+    padding-right: 30px;
+}
+.c7{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(159, 183, 204);
+}
+.p3{
+    width: 60%;
+}
+.div2{
+    width: 70%;
+    padding-right: 30%;
+}
+.hA{
+    color: green;
+    padding-left:0px;
+}
+.div1{
+    padding-left: 50px;
+    /* width: 520%; */
+
+}
+.handelrelative{
+    position: relative;
+    left: 488px;
+}
+.xy{
+    display: flex;
+}
+.xyz{
+    padding-left: 30px;
+    position: relative;
+    bottom: 33px;
+    /* padding-bottom: 40px; */
+}
+.xyz p{
+    position: relative;
+    bottom: 20px;
+    /* padding-bottom: 40px; */
+}
+.footerpara{
+    position: relative;
+    bottom: 70px;
+}
+.end{
+    text-align: center;
+    position: relative;
+    right: 70px;
+    bottom: 58px;
+    font-size: 30px;
+    /* margin-left: 130px; */
+}
+.imgfooter{
+    height: 60px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.507);
+    background-color: black;
+    padding: 22px 0px;
+    text-align: center;
+    margin: 0px;
+    letter-spacing: 3px;
+    font-size:12px;
+}
